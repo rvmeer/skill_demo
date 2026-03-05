@@ -17,6 +17,7 @@ is shown in the upper left corner of the HTML.
 - These are the colors:
 ```
 {
+    --color-bg-default: var(--color-gray-100);
     --color-green-500: #66de80;
     --color-green-500-hover: #4fbb66;
     --color-green-700: #003523;
