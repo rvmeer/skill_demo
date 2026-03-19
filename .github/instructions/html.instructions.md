@@ -7,4 +7,4 @@ When writing HTML, follow these guidelines:
 3. Indent nested elements with two spaces.
 4. Avoid using inline styles; instead, use CSS classes.
 5. Always include the `<!DOCTYPE html>` declaration at the beginning of your HTML documents.
-6. Put a 'Created by Pipple' comment at the end of the file.
+6. Put a 'Created by Promexx' comment at the end of the file.
